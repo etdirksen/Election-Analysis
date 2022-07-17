@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """ counties = ["Arapahoe","Denver","Jefferson"]
 if "El Paso" in counties:
     print("El Paso is in the list of counties.")
@@ -31,18 +30,19 @@ for county, voters in counties_dict.items():
 This is a list of dictionaries. I want to get every item in the list (every dictionary) and then I want to print each (key, value) pair from each dictionary. There are two keys to
 each dictionary 'county' and 'registered_voters', so when I am iterating through the list, I want to specify each key that I want the value from.
 """
-voting_data = [{"county":"Arapahoe", "registered_voters": 422829}, {"county":"Denver", "registered_voters": 463353}, {"county":"Jefferson", "registered_voters": 432438}]
+"""voting_data = [{"county":"Arapahoe", "registered_voters": 422829}, {"county":"Denver", "registered_voters": 463353}, {"county":"Jefferson", "registered_voters": 432438}]
 for voter_dict in voting_data:
     print(f"{voter_dict['county']} has {voter_dict['registered_voters']:,} registered voters.")
 
 voting_data[0]['county'] = "Nothing"
-for voter_dict in voting_data:
-=======
-""" counties = ["Arapahoe","Denver","Jefferson"]
+for voter_dict in voting_data:"""
+""" 
+counties = ["Arapahoe","Denver","Jefferson"]
 if "El Paso" in counties:
     print("El Paso is in the list of counties.")
 else:
-    print("El Paso is not in the list of counties.") """
+    print("El Paso is not in the list of counties.") 
+"""
 
 """ my_votes = int(input("How many votes did you get in the election? "))
 total_votes = int(input("What is the total votes in the election? "))
@@ -72,5 +72,4 @@ each dictionary 'county' and 'registered_voters', so when I am iterating through
 """
 voting_data = [{"county":"Arapahoe", "registered_voters": 422829}, {"county":"Denver", "registered_voters": 463353}, {"county":"Jefferson", "registered_voters": 432438}]
 for voter_dict in voting_data:
->>>>>>> 2c92282841e00942880df8f4b6a4ce2b9855f15b
     print(f"{voter_dict['county']} has {voter_dict['registered_voters']:,} registered voters.")

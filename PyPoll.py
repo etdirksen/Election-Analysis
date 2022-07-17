@@ -32,10 +32,9 @@ with open(file_to_load, "r") as election_data:
     headers = next(file_reader)
     print(headers)
 
-    '''
+    
     for row in file_reader:
         print(row)
-=======
 '''
 This file will read the election_results.csv file, format it without the commas, and print it out line by line.
 
@@ -70,6 +69,5 @@ with open(file_to_load, "r") as election_data:
     headers = next(file_reader)
     print(headers)
 
-    '''
     for row in file_reader:
         print(row)
