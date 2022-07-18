@@ -11,7 +11,7 @@ dir_path = os.path.dirname(__file__)
 file_to_load = os.path.join(dir_path,"Resources\election_results.csv")
 
 # Add a variable to save the file to a path.
-file_to_save = os.path.join(dir_path,"analysis\homework_election_analysis.txt")
+file_to_save = os.path.join(dir_path,"analysis\election_analysis.txt")
 
 # Initialize a total vote counter.
 total_votes = 0
