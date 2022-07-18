@@ -77,7 +77,7 @@ print("-------------------------------------------------")
 
 winning_election_results = (
     f"Winning candidate: {winning_candidate}\n"
-    f"Winning vote Count: {winning_count}\n"
+    f"Winning vote Count: {winning_count:,}\n"
     f"Winning percentage: {winning_percentage:.1f}%"
 )
 print(winning_election_results)
