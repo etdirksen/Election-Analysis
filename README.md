@@ -1,5 +1,4 @@
 # Module 3, Deliverable 3: 03-election-analysis
-Work for Module, working on an analysis for election results.
 
 ## Project Overview
 Initially we were helping our friends Seth and Tom to do an analysis on the election results, based on the data source provided under "Resources". After we completed our initial analysis, the Colorado Board of Elections commission gave me some additional tasks to complete the election audit of a recent local congressional election. 
