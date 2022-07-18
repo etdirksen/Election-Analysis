@@ -1,4 +1,4 @@
-# Module 3 Challenege: 03-election-analysis
+# Module 3, Deliverable 3: 03-election-analysis
 Work for Module, working on an analysis for election results.
 
 ## Project Overview
