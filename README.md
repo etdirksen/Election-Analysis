@@ -37,6 +37,9 @@ An analysis of the election results show that:
     - Percentage of total votes: 82.8%
     - Total votes from this county: 306,055
 
+The results will print to the terminal as follows:
+![Election Results: Terminal Print](https://github.com/etdirksen/03-election-analysis/blob/main/Resources/election_terminal_print.png)
+
 ## Summary
 This would make a great tool for future elections! It can handle large amounts of data and provide a quick summary of the results. It also outputs to a file that can be shared with others. The script is flexible, and is already built to keep tally of votes cast from non-predetermined counties, voter IDs, and for running candidates.
 
