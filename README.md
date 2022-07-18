@@ -38,6 +38,7 @@ An analysis of the election results show that:
     - Total votes from this county: 306,055
 
 The results will print to the terminal as follows:
+
 ![Election Results: Terminal Print](https://github.com/etdirksen/03-election-analysis/blob/main/Resources/election_terminal_print.png)
 
 ## Summary
