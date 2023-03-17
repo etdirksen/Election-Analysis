@@ -1,7 +1,7 @@
-# Challenge 3, Deliverable 3: Election Analysis
+# Election Analysis
 
 ## Project Overview
-Initially we were helping our friends Seth and Tom to do an analysis on the election results, based on the data source provided under "Resources". After we completed our initial analysis, the Colorado Board of Elections commission gave me some additional tasks to complete the election audit of a recent local congressional election. 
+Initially, I was going to do an analysis on the election results, based on the data source provided under "Resources". After I completed my initial analysis, the Colorado Board of Elections commission gave me some additional tasks to complete the election audit of a recent local congressional election. 
 
 1. Find the total number of votes cast
 2. Make a complete list of candidates who received votes
@@ -44,4 +44,4 @@ The results will print to the terminal as follows:
 ## Summary
 This would make a great tool for future elections! It can handle large amounts of data and provide a quick summary of the results. It also outputs to a file that can be shared with others. The script is flexible, and is already built to keep tally of votes cast from non-predetermined counties, voter IDs, and for running candidates.
 
-As it stands, the data that we analyzed had limited information about our candidates. So far we are only keeping track of their names. We could modify the code to include (1) biographies and output this information to the text file. We could also (2) include information about the policies that each candidate wants to focus on in the same way, and put this in the text file to see at a glance. This way we can keep track of how the area is evolving after implementing these policies as well as what kind of candidate the area has favored over the next several years.
+As it stands, the data that I analyzed had limited information about our candidates. So far, I am only keeping track of their names. I could modify the code to include (1) biographies and output this information to the text file. I could also (2) include information about the policies that each candidate wants to focus on in the same way, and put this in the text file to see at a glance. This way, I can keep track of how the area is evolving after implementing these policies as well as what kind of candidate the area has favored over the next several years.
