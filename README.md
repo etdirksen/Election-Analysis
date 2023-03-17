@@ -1,6 +1,6 @@
 # Election Analysis
 
-## Project Overview
+## Overview
 Initially, I was going to do an analysis on the election results, based on the data source provided under "Resources". After I completed my initial analysis, the Colorado Board of Elections commission gave me some additional tasks to complete the election audit of a recent local congressional election. 
 
 1. Find the total number of votes cast
